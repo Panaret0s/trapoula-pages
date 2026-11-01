@@ -9,4 +9,4 @@ Static pages Google Play and the App Store need at public addresses:
 
 **Hosting:** any static host works. Upload this folder to Netlify Drop, Cloudflare Pages or GitHub Pages. Supabase Edge Functions can't serve these, because they don't send HTML as web pages.
 
-Keep `privacy.html` in step with the app's data use whenever a new service or data type is added.
+Keep `privacy.html` in step with the app's data use whenever a new service or data type is added..
